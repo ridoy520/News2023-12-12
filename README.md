@@ -1,9 +1,11 @@
 # News2023-12-12
 MR Ridoy bot থেকে
 সংগ্রহ: H.M. Mustakim Billah Ridoy
+
 `
 <a href="https://www.amazon.com/Chanel-Pre-Loved-Quilted-Caviar-Classic/dp/B0CCKVFMDD?&linkCode=li3&tag=applicatio0c9-20&linkId=51b038a89d013ac79fd637248b57db6a&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0CCKVFMDD&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=applicatio0c9-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=applicatio0c9-20&language=en_US&l=li3&o=1&a=B0CCKVFMDD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 `
+
 আবহাওয়া:
 
 ভারতের উত্তরাখণ্ড রাজ্যে তীব্র তুষারপাতের কারণে যানবাহন চলাচল বন্ধ হয়ে গেছে।
@@ -44,9 +46,11 @@ MR Ridoy bot থেকে
 বাংলাদেশের প্রধানমন্ত্রী শেখ হাসিনা গতকাল জাতীয় সংসদে বলেন যে আগামী বছরের নির্বাচন হবে সুষ্ঠু ও নিরপেক্ষ।
 বাংলাদেশের রাষ্ট্রপতি মো. আবদুল হামিদ গতকাল জাতীয় সংসদে ভাষণে বলেন যে দেশে শান্তি ও সমৃদ্ধি বজায় রাখার জন্য সকলের সম্মিলিত প্রচেষ্টা প্রয়োজন।
 বাংলাদেশের পররাষ্ট্রমন্ত্রী ড. এ কে আব্দুল মোমেন গতকাল বলেছেন যে বাংলাদেশ আন্তর্জাতিক সম্প্রদায়ের সাথে ঘনিষ্ঠ সম্পর্ক বজায় রাখতে চায়।
+
 `
 <a href="https://www.amazon.com/Chanel-Pre-Loved-Black-Premiere-Medium/dp/B0CK49TQJB?&amp;linkCode=li3&amp;tag=applicatio0c9-20&amp;linkId=18c2a2a718c7e62af0ec1bfcaadd8789&amp;language=en_US&amp;ref_=as_li_ss_il" target="_blank"><img border="0" height="640" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B0CK49TQJB&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=applicatio0c9-20&amp;language=en_US" width="428" /></a><img alt="" border="0" height="1" src="https://ir-na.amazon-adsystem.com/e/ir?t=applicatio0c9-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B0CK49TQJB" style="border: none; margin: 0px;" width="1" />
 `
+
 আবহাওয়া
 
 বাংলাদেশে শীতের তীব্রতা বাড়ছে। গতকাল, মঙ্গলবার, দেশের উত্তরাঞ্চল ও উত্তর-পূর্বাঞ্চলে তাপমাত্রা শূন্য ডিগ্রি সেলসিয়াসের নিচে নেমেছে।
