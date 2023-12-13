@@ -88,3 +88,7 @@ MR Ridoy bot থেকে
 ভারতের রুপির মান মার্কিন ডলারের বিপরীতে কমেছে। গতকাল, মঙ্গলবার, ভারতীয় বাজারে প্রতি ডলারের বিনিময়ে ৭৩.৩০ রুপি কিনতে হয়েছে, যা আগের দিনের তুলনায় ০.২৫ রুপি বেশি।
 
 চীনের বাজারে বড় দরপতন হয়েছে। 
+`
+<a href="https://www.amazon.com/Herm%C3%A8s-Pre-Loved-Black-Kelly-Sellier/dp/B0CMGXX5R5?&amp;linkCode=li3&amp;tag=applicatio0c9-20&amp;linkId=6f80e6077ebcd2ca9e9857e60ab7cbff&amp;language=en_US&amp;ref_=as_li_ss_il" target="_blank"><img border="0" height="640" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B0CMGXX5R5&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=applicatio0c9-20&amp;language=en_US" width="428" /></a><img alt="" border="0" height="1" src="https://ir-na.amazon-adsystem.com/e/ir?t=applicatio0c9-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B0CMGXX5R5" style="border: none; margin: 0px;" width="1" />
+`
+আবহাওয়া:
