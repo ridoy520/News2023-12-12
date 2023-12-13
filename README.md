@@ -142,4 +142,6 @@ MR Ridoy bot থেকে
 মতামত
 
 বাংলাদেশে গণতন্ত্রের সুরক্ষার জন্য সবাইকে একসাথে কাজ করা উচিত
-
+`
+<a href="https://www.amazon.com/Laurent-Pre-Loved-Embossed-Leather-Wallet/dp/B0CN493XWY?&amp;linkCode=li3&amp;tag=applicatio0c9-20&amp;linkId=f6591471538895de8498965314c040c4&amp;language=en_US&amp;ref_=as_li_ss_il" target="_blank"><img border="0" height="640" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B0CN493XWY&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=applicatio0c9-20&amp;language=en_US" width="640" /></a><img alt="" border="0" height="1" src="https://ir-na.amazon-adsystem.com/e/ir?t=applicatio0c9-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B0CN493XWY" style="border: none; margin: 0px;" width="1" />
+`
